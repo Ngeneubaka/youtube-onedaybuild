@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		074944C8299780C900F7D92A /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074944C7299780C900F7D92A /* Response.swift */; };
+		075B043D299795BF00F3D141 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075B043C299795BF00F3D141 /* ConstantsTemplate.swift */; };
 		0791E3EC299245950084180D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0791E3EB299245950084180D /* AppDelegate.swift */; };
 		0791E3EE299245950084180D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0791E3ED299245950084180D /* SceneDelegate.swift */; };
 		0791E3F0299245950084180D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0791E3EF299245950084180D /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		074944C7299780C900F7D92A /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		075B043C299795BF00F3D141 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		0791E3E8299245950084180D /* youtube-onedaybuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-onedaybuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0791E3EB299245950084180D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0791E3ED299245950084180D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				0791E4012992693C0084180D /* Video.swift */,
 				0791E403299269E10084180D /* Model.swift */,
 				074944C7299780C900F7D92A /* Response.swift */,
+				075B043C299795BF00F3D141 /* ConstantsTemplate.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				0791E3F0299245950084180D /* ViewController.swift in Sources */,
 				0791E3EC299245950084180D /* AppDelegate.swift in Sources */,
 				0791E3EE299245950084180D /* SceneDelegate.swift in Sources */,
+				075B043D299795BF00F3D141 /* ConstantsTemplate.swift in Sources */,
 				0791E404299269E10084180D /* Model.swift in Sources */,
 				0791E400299263DB0084180D /* Constants.swift in Sources */,
 				0791E4022992693C0084180D /* Video.swift in Sources */,

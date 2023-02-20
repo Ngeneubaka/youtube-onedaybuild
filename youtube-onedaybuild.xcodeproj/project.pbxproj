@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		073B67F229A36AF300039FFB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073B67F129A36AF300039FFB /* DetailViewController.swift */; };
 		074944C8299780C900F7D92A /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074944C7299780C900F7D92A /* Response.swift */; };
 		075B043D299795BF00F3D141 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075B043C299795BF00F3D141 /* ConstantsTemplate.swift */; };
 		0791E3EC299245950084180D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0791E3EB299245950084180D /* AppDelegate.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		073B67F129A36AF300039FFB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		074944C7299780C900F7D92A /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		075B043C299795BF00F3D141 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		0791E3E8299245950084180D /* youtube-onedaybuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "youtube-onedaybuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				0791E3EF299245950084180D /* ViewController.swift */,
+				073B67F129A36AF300039FFB /* DetailViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				073B67F229A36AF300039FFB /* DetailViewController.swift in Sources */,
 				0791E3F0299245950084180D /* ViewController.swift in Sources */,
 				0791E3EC299245950084180D /* AppDelegate.swift in Sources */,
 				0791E3EE299245950084180D /* SceneDelegate.swift in Sources */,
